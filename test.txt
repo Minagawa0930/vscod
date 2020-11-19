@@ -15,4 +15,9 @@
 10回目編集(PullRequest修正)
 10回目編集(最終)
 
+<<<<<<< HEAD
 jvkjadv
+=======
+
+ｔ車
+>>>>>>> 776e4b52ffdf8bd8e87c34c59ca0c55b616f3413
